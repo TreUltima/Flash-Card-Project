@@ -1,0 +1,64 @@
+{
+  "decks": [
+    {
+      "id": 1,
+      "name": "Rendering in React",
+      "description": "React's component structure allows for quickly building a complex web application that relies on DOM manipulation. "
+    },
+    {
+      "name": "sbjksb",
+      "description": "asjbfksa",
+      "id": 2
+    },
+    {
+      "name": "Tre",
+      "description": "Deck",
+      "id": 3
+    }
+  ],
+  "cards": [
+    {
+      "id": 1,
+      "front": "Differentiate between Real DOM and Virtual DOM.",
+      "back": "Virtual DOM updates are faster but do not directly update the HTML",
+      "deckId": 1
+    },
+    {
+      "id": 3,
+      "front": "How do you pass data 'down' to a React child component?",
+      "back": "As properties or props",
+      "deckId": 1
+    },
+    {
+      "cards": [],
+      "front": "b",
+      "back": "b",
+      "deckId": 1,
+      "id": 7
+    },
+    {
+      "front": "March 8",
+      "back": "Born Day!",
+      "deckId": 3,
+      "id": 8
+    },
+    {
+      "front": "Siblings",
+      "back": "Alot",
+      "deckId": 3,
+      "id": 9
+    },
+    {
+      "front": "Married",
+      "back": "Yes",
+      "deckId": 3,
+      "id": 10
+    },
+    {
+      "front": "Kid",
+      "back": "1",
+      "deckId": 3,
+      "id": 11
+    }
+  ]
+}
